@@ -69,7 +69,7 @@ Watch the gameplay demo on YouTube:
 
 
 ## 📞 Contact
-- 📧 Email: trunghieuak2--5@gmail.com
-- 🌐 GitHub: [your-username](Hieuabssy)
+- 📧 Email: trunghieuak2005@gmail.com
+- 🌐 GitHub: Hieuabssy
 
 
