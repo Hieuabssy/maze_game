@@ -1,0 +1,32 @@
+{
+    "user": [
+        {
+            "username": "quan123",
+            "file": "quan1"
+        },
+        {
+            "username": "123456",
+            "file": "aaaaaaaa"
+        },
+        {
+            "username": "123456",
+            "file": "12"
+        },
+        {
+            "username": "quan123",
+            "file": "quan2"
+        },
+        {
+            "username": "",
+            "file": "quan3"
+        },
+        {
+            "username": "",
+            "file": "quan4"
+        },
+        {
+            "username": "123456",
+            "file": "abc"
+        }
+    ]
+}
