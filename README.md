@@ -24,6 +24,19 @@ Maze Game is a maze-based puzzle game developed entirely in Python. The game gen
 - 🎨 PyQt5 (GUI framework)
 - 🎮 Pygame (Graphics handling)
 
+## 📷 Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6221d48-ed3f-4e35-a0ae-9c52deb0a818" alt="Login Menu" width="60%"><br>
+  <b>Menu</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/25c610d5-49b5-4224-8d6b-4c609e064db4" alt="In Game" width="60%"><br>
+  <b>In Game</b>
+</p>
+
+
+
 ## ⚙️ Installation
 
 ### 📌 Requirements
@@ -49,4 +62,14 @@ If you would like to contribute to this project, feel free to **fork** the repos
 ## 🌟 Vision & Development
 
 Maze Game is not just an academic project but is aimed at becoming a fully-fledged puzzle game, providing an engaging experience for players. We continuously improve its features, enhance performance, and refine the interface. If you have ideas or suggestions, don't hesitate to get involved!
+## 🎥 Demo
+Watch the gameplay demo on YouTube:
+[(https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=QvK--n080sU&t=231s)
+
+
+
+## 📞 Contact
+- 📧 Email: trunghieuak2--5@gmail.com
+- 🌐 GitHub: [your-username](Hieuabssy)
+
 
